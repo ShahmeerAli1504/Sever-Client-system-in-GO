@@ -1,7 +1,8 @@
 # Sever-Client-system-in-GO
 
 ## Scenario
-The client programs will request the coordinator for computation on their data. The server will act as a coordinator for n worker processes (n ≥ 3). The worker processes will be responsible for performing matrix operations, limited to:
+The client programs will request the coordinator for computation on their data. The server will act as a coordinator for n worker processes (n ≥ 3). 
+The worker processes will be responsible for performing matrix operations, limited to:
 • Addition
 • Transpose
 • Multiplication
